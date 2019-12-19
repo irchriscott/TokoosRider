@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485418911520",
+    "firebase_url": "https://tokoosrider-28903.firebaseio.com",
+    "project_id": "tokoosrider-28903",
+    "storage_bucket": "tokoosrider-28903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485418911520:android:06401981476861f2063945",
+        "android_client_info": {
+          "package_name": "com.portail.tokoosrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485418911520-3va3jj6lljo39mkiuti6q81dvcim7tun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.portail.tokoosrider",
+            "certificate_hash": "36fc73e49f42f12c8e2450d8b823e0c38fcc191e"
+          }
+        },
+        {
+          "client_id": "485418911520-v90m2oh8953fcqiti72u5tqluib03bm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL7n1jUK1IjuCqnF0zrYKlFfi3TTgmzWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485418911520-v90m2oh8953fcqiti72u5tqluib03bm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
